@@ -15,3 +15,14 @@ function logShout (word) {
 function logWhisper(word) {
   console.log(word.toLowerCase());
 }
+
+function sayHiToGrandma (phrase) {
+  if (phrase.toUpperCase()== phrase) {
+    return "YES INDEED!" 
+  } else {
+    return "I can't hear you!"
+        
+      }
+    }
+  
+
